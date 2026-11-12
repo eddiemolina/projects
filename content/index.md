@@ -9,69 +9,39 @@ aliases:
 ---
 
 
-# Technical Knowledge Base
+# Welcome 👋
 
-_An evolving collection of technical research, hands-on experience, and documented projects._
-
-Welcome. This knowledge base serves as a central reference for my work in cybersecurity, infrastructure, and systems administration.
+> [!quote] "All big things come from small beginnings. The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger. Roots entrench themselves and branches grow. The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time."
+> 
+> — **James Clear**, _Atomic Habits_
 
 ---
 
-## Explore
+Hey, I'm **Eddie** and welcome to my documentation site.
 
-> [!abstract] Hack The Box  
-> **Cybersecurity Practice**
-> 
-> Documenting practical security research, technical exercises, machine investigations, and lessons learned.
-> 
-> **Focus areas**
-> 
-> - Enumeration and reconnaissance
->     
-> - Linux and Windows security
->     
-> - Privilege escalation
->     
-> - Security tools and methodologies
->     
-> 
-> [[htb/index|Explore Hack The Box →]]
+This is where I document my work, explore technical concepts, and share what I learn along the way. From cybersecurity and networking to homelab projects, tools, and hands-on experiments, this space serves as a growing collection of notes, guides, and technical writeups.
 
-> [!abstract] Homelab  
-> **Infrastructure & Systems**
-> 
-> Documenting my home lab environment, infrastructure configurations, networking, and technical experiments.
-> 
-> **Focus areas**
-> 
-> - Proxmox and virtualization
->     
-> - Linux administration
->     
-> - Networking and VLANs
->     
-> - DNS and network security
->     
-> 
-> [[published/Homelab/index|Explore Homelab →]]
+My goal is to turn curiosity into practical knowledge, reinforce what I learn through documentation, and create a resource that others can learn from as well.
+
+Technology is an ongoing learning process. This site is a reflection of that journey — one project, one challenge, and one discovery at a time.
 
 ---
 
-## About This Knowledge Base
+## What You'll Find Here
 
-This is a working technical reference. Its purpose is to document what I learn, preserve useful configurations, and build a searchable record of practical experience.
-
-**Core principles**
-
-- Document solutions, not just results.
+- **Cybersecurity** — Security concepts, methodologies, tools, and hands-on labs.
     
-- Keep technical notes organized and reusable.
+- **Networking** — Network fundamentals, configurations, protocols, and troubleshooting.
     
-- Record troubleshooting steps and lessons learned.
+- **Homelab** — Virtualization, infrastructure, self-hosted services, and experiments.
     
-- Continuously improve existing documentation.
+- **Technical Notes** — Tutorials, troubleshooting guides, useful commands, and lessons learned.
     
 
----
+## A Little About My Approach
 
-<sub>Personal technical documentation · Built with Obsidian and Quartz</sub>
+I believe the best way to understand something is to get hands-on with it. These notes aren't meant to be perfect or exhaustive. They're a record of experimentation, problem-solving, and continuous improvement.
+
+Some entries will be detailed walkthroughs, others quick reference notes, and some will document mistakes and lessons learned along the way.
+
+**The goal isn't just to collect information. It's to understand it, apply it, and share it.**
