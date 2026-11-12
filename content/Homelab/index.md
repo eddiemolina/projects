@@ -8,7 +8,7 @@ tags:
 
 My homelab is a space where I experiment with technology and put what I learn in class into practice. It's an ongoing project that allows me to explore different technologies, build hands-on experience, and develop my technical skills.
 
-## Current Environment
+# Current Environment
 
 - **Virtualization:** Learning and experimenting with Proxmox.
     

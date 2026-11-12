@@ -13,9 +13,9 @@ This section documents my hands-on learning experiences through **Hack The Box (
 
 
 Rather than publishing tutorials or walkthroughs, I'll focus on what I've learned, the challenges I've encountered, and how I've applied different cybersecurity concepts in practice.
-![[Pasted image 20261112153045.png|160]]
+![[Pasted image 20261112153045.png|center|160]]
 *Image courtesy of [Hack The Box](https://www.hackthebox.com/).*
-## What You'll Find Here
+# What You'll Find Here
 
 - **Technical Concepts** — Security principles and techniques explored through hands-on exercises.
     

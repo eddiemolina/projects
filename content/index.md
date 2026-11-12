@@ -17,7 +17,7 @@ aliases:
 
 ---
 
-Hey, I'm **Eddie** and welcome to my documentation site.
+**Hey, I'm Eddie and welcome to my documentation site.**
 
 This is where I document my work, explore technical concepts, and share what I learn along the way. From cybersecurity and networking to homelab projects, tools, and hands-on experiments, this space serves as a growing collection of notes, guides, and technical writeups.
 
