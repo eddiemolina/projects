@@ -11,6 +11,7 @@ A collection of technical notes, hands-on exercises, and security investigations
 
 ---
 
+![[Pasted image 20261111230232.png]]
 ## Training & Practice
 
 ### Academy
