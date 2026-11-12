@@ -1,17 +1,29 @@
-# Quartz v5
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# Eddie Molina | Cybersecurity Knowledge Base
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+A personal cybersecurity knowledge base documenting my technical learning, hands-on labs, projects, and research.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Overview
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+This repository contains technical notes and documentation developed through coursework, independent study, and hands-on experimentation. It serves as a centralized resource for documenting concepts, troubleshooting technical challenges, and tracking my development in cybersecurity.
 
-## Sponsors
+## Built With
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- [Obsidian](https://obsidian.md/) — Knowledge management and note-taking
+- [Quartz](https://quartz.jzhao.xyz/) — Static site generation and publishing
+- [GitHub Pages](https://pages.github.com/) — Website hosting
+
+## Live Website
+
+[Visit my Cybersecurity Knowledge Base](YOUR_QUARTZ_WEBSITE_URL)
+
+## Acknowledgments
+
+This knowledge base is powered by [Quartz](https://github.com/jackyzha0/quartz), created by [Jacky Zhao](https://github.com/jackyzha0). Thank you for developing and maintaining an excellent open-source publishing framework.
+
+## Author
+
+**Eddie Molina**
+
+- [Portfolio](https://eddiestcc.github.io/eddiemolina-portfolio/)
+- [GitHub](https://github.com/eddiemolina)
