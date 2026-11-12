@@ -1,7 +1,7 @@
 ---
 title: Homelab
 ---
-
+![[Pasted image 20261111231340.png]]
 # Homelab
 
 **Infrastructure, Networking & Systems Administration**
