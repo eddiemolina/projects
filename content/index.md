@@ -53,7 +53,7 @@ Welcome. This knowledge base serves as a central reference for my work in cybers
 > - DNS and network security
 >     
 > 
-> [[published/Homelab/home|Explore Homelab →]]
+> [[published/Homelab/index|Explore Homelab →]]
 
 ---
 
