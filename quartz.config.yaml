@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: eddiemolina.github.io
+  baseUrl: eddiemolina.github.io/projects
   ignorePatterns:
     - private
     - templates
