@@ -6,7 +6,6 @@ tags:
 draft:
 ---
 Author: Eddie Molina
-# <% tp.file.title %>
 
 > [!abstract] Overview
 > Briefly describe the topic, what it covers, and why it is relevant.
