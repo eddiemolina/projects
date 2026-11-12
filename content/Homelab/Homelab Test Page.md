@@ -1,14 +1,10 @@
 ---
-
-title: Homelab Test Page  
-description: Temporary test page for verifying Quartz deployment.  
+title: Homelab Test Page
+description: Temporary test page for verifying Quartz deployment.
 tags:
-
-- homelab
-    
-- testing
-    
-
+  - homelab
+  - testing
+draft: true
 ---
 
 # Homelab Test Page
