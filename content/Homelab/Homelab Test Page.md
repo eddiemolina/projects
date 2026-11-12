@@ -4,7 +4,7 @@ description: Temporary test page for verifying Quartz deployment.
 tags:
   - homelab
   - testing
-draft: true
+draft: false
 ---
 
 # Homelab Test Page

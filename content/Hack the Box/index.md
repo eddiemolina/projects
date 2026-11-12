@@ -1,80 +1,114 @@
 ---
 title: Hack The Box
-date: 2023-10-12
-author: Eddie Molina
+description: Cybersecurity training, practical labs, and technical documentation.
+tags:
+  - cybersecurity
+  - hack-the-box
+  - penetration-testing
 ---
 
+# Hack The Box
 
-**Cybersecurity Training & Practical Research**
+> [!abstract] Overview
+> My Hack The Box knowledge base, documenting practical labs, Academy modules, security techniques, and tools.
 
-A collection of technical notes, hands-on exercises, and security investigations documenting my development through Hack The Box.
+## Learning Focus
 
----
-
-![[Pasted image 20261111230232.png]]
-## Training & Practice
-
-### Academy
-
-Structured cybersecurity learning, technical concepts, and practical exercises.
-
-- Module notes
-- Networking and security fundamentals
-- Linux and Windows
+- Network reconnaissance and enumeration
+- Linux and Windows fundamentals
 - Web application security
-
-[Explore Academy →](academy/)
-
-### Labs
-
-Hands-on penetration testing practice in controlled environments.
-
-- Machine walkthroughs
-- Enumeration
-- Exploitation
-- Privilege escalation
-
-[Explore Labs →](labs/)
-
-### Sherlocks
-
-Blue-team investigations and digital forensics exercises.
-
-- Log analysis
-- Threat hunting
-- Incident response
-- Digital forensics
-
-[Explore Sherlocks →](sherlocks/)
+- Vulnerability identification
+- Exploitation and privilege escalation
+- Security tools and methodologies
 
 ---
 
-## Technical Reference
+## Machines
 
-A centralized reference for tools, commands, and techniques.
+Hands-on challenges focused on identifying vulnerabilities, exploiting services, and developing practical penetration-testing skills.
 
-| Category | Topics |
+### Difficulty Levels
+
+| Difficulty | Focus |
 |---|---|
-| Enumeration | Nmap, service discovery, reconnaissance |
-| Linux | Administration, permissions, shell |
-| Windows | Active Directory, PowerShell, Windows security |
-| Networking | TCP/IP, DNS, protocols |
-| Privilege Escalation | Linux and Windows techniques |
-| Web Security | OWASP, vulnerabilities, exploitation |
-| Tools | Burp Suite, Wireshark, Metasploit |
+| Easy | Fundamental enumeration and exploitation |
+| Medium | More complex attack paths |
+| Hard | Advanced exploitation techniques |
+| Insane | Complex, multi-stage challenges |
+
+### Machine Writeups
+
+- Easy
+- Medium
+- Hard
+- Insane
 
 ---
 
-## Methodology
+## Academy
 
-My approach to practical cybersecurity exercises:
+Structured learning modules covering cybersecurity concepts and practical techniques.
 
-1. **Reconnaissance** — Identify the target and available attack surface.
-2. **Enumeration** — Investigate services, technologies, and potential entry points.
-3. **Analysis** — Identify vulnerabilities and possible attack paths.
-4. **Execution** — Validate findings within authorized lab environments.
-5. **Documentation** — Record commands, findings, and lessons learned.
+- Linux Fundamentals
+- Networking
+- Information Gathering
+- Web Requests
+- Web Enumeration
+- Vulnerability Assessment
 
 ---
 
-*Personal cybersecurity knowledge base · Hack The Box*
+## Techniques
+
+A collection of methodologies and techniques encountered during labs and exercises.
+
+- Reconnaissance
+- Network Enumeration
+- Web Enumeration
+- Exploitation
+- Privilege Escalation
+- Password Attacks
+- Active Directory
+
+---
+
+## Tools
+
+Documentation covering tools used during security assessments.
+
+| Tool | Purpose |
+|---|---|
+| Nmap | Network scanning |
+| Gobuster | Directory enumeration |
+| Burp Suite | Web application testing |
+| Wireshark | Packet analysis |
+| Netcat | Network connections |
+| Metasploit | Exploitation framework |
+| Hydra | Password auditing |
+
+---
+
+## Environment
+
+My personal environment for completing Hack The Box exercises.
+
+| Component | Configuration |
+|---|---|
+| Host OS | macOS |
+| Virtualization | VMware Fusion |
+| Guest OS | Kali Linux |
+| VPN | OpenVPN |
+| Platform | Hack The Box |
+
+---
+
+## Learning Progress
+
+My objective is to strengthen practical cybersecurity skills through consistent lab work, technical documentation, and continued experimentation.
+
+> [!tip] Documentation Approach
+> Record the reasoning behind each action, not just the commands. Document findings, challenges, and lessons learned.
+
+---
+
+<sub>© Eddie Molina · Cybersecurity Knowledge Base · Personal Technical Documentation</sub>

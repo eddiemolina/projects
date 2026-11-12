@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity Portfolio
+title: Eddie Molina | Portfolio
 tags:
   - cybersecurity
   - portfolio
@@ -7,7 +7,7 @@ tags:
 aliases:
   - Security Research
 ---
----
+
 
 # Technical Knowledge Base
 
