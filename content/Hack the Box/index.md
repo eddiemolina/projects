@@ -7,13 +7,11 @@ tags:
   - penetration-testing
 ---
 
-# Hack The Box  📦
-
 This section documents my hands-on learning experiences through **Hack The Box (HTB)**. Here, I share technical concepts, tools, techniques, and lessons I've picked up while working through labs and challenges.
-
-
-Rather than publishing tutorials or walkthroughs, I'll focus on what I've learned, the challenges I've encountered, and how I've applied different cybersecurity concepts in practice.
 ![[Pasted image 20261112153045.png|center|160]]
+Rather than publishing tutorials or walkthroughs, I'll focus on what I've learned, the challenges I've encountered, and how I've applied different cybersecurity concepts in practice.
+
+
 *Image courtesy of [Hack The Box](https://www.hackthebox.com/).*
 # What You'll Find Here
 
