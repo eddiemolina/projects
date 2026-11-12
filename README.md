@@ -15,7 +15,7 @@ This repository contains technical notes and documentation developed through cou
 
 ## Live Website
 
-[Visit my Cybersecurity Knowledge Base](YOUR_QUARTZ_WEBSITE_URL)
+[Visit my Cybersecurity Knowledge Base](https://eddiemolina.github.io/projects/)
 
 ## Acknowledgments
 
@@ -25,5 +25,5 @@ This knowledge base is powered by [Quartz](https://github.com/jackyzha0/quartz),
 
 **Eddie Molina**
 
-- [Portfolio](https://eddiestcc.github.io/eddiemolina-portfolio/)
+- [Portfolio](https://eddiemolina.github.io/eddiemolina-portfolio/)
 - [GitHub](https://github.com/eddiemolina)
