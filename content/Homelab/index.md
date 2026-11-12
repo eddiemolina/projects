@@ -1,5 +1,5 @@
 ---
-title: Homelab
+title: Eddie Molina | Homelab
 tags:
   - cybersecurity
   - homelab

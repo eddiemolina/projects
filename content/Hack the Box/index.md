@@ -1,5 +1,5 @@
 ---
-title: Hack The Box
+title: Eddie Molina | Hack The Box
 description: Cybersecurity training, practical labs, and technical documentation.
 tags:
   - cybersecurity

@@ -1,11 +1,11 @@
 ---
-title: <% tp.file.title %>
+title: Eddie Molina | <% tp.file.title %>
 date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - cybersecurity
 draft:
 ---
-Author: Eddie Molina
+
 
 > [!abstract] Overview
 > Briefly describe the topic, what it covers, and why it is relevant.
