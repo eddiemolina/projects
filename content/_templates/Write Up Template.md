@@ -1,30 +1,29 @@
 ---
 title: Eddie Molina | <% tp.file.title %>
 date: <% tp.date.now("YYYY-MM-DD") %>
-tags:
-  - cybersecurity
-draft:
 ---
-
+## Overview
 
 > [!abstract] Overview
-> Briefly describe the topic, what it covers, and why it is relevant.
+> 
+
+> [!info] Concepts
+> #example
+
+> [!todo] Goal
+> 
+
+## What I Did
+
+
 
 ## What I Learned
 
 
-## Overview
-
-
-
-## Key Concepts
-
-
-## Notes
-
-
-
-
 ---
-
+<%*
+const parent = tp.file.folder(true).split("/").pop();
+const tag = parent.toLowerCase().trim().replace(/\s+/g, "-");
+tR += `#${tag}`;
+%>
 <sub>© Eddie Molina · Cybersecurity Knowledge Base · Personal Technical Documentation</sub>

@@ -1,11 +1,5 @@
 ---
 title: Eddie Molina | Portfolio
-tags:
-  - cybersecurity
-  - portfolio
-  - documentation
-aliases:
-  - Security Research
 ---
 
 # Welcome 👋
@@ -49,3 +43,7 @@ I believe the best way to understand something is to get hands-on with it. These
 Some entries will be detailed walkthroughs, others quick reference notes, and some will document mistakes and lessons learned along the way.
 
 **The goal isn't just to collect information. It's to understand it, apply it, and share it.**
+
+___
+#hack-the-box #Homelab 
+<sub>© Eddie Molina · Cybersecurity Knowledge Base · Personal Technical Documentation</sub>
