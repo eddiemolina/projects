@@ -6,18 +6,18 @@
    ========================================== */
 
 :root {
-  --sq-accent: #8bb4f8;
-  --sq-accent-hover: #b1ccff;
-  --sq-accent-light: #315fa8;
+  // --sq-accent: #79C98A;
+  // --sq-accent-hover: #79C98A;
+  // --sq-accent-light: #79C98A;
 
   /* Dark palette */
-  --sq-dark-bg: #101216;
-  --sq-dark-sidebar: #14171d;
-  --sq-dark-surface: #1c2028;
-  --sq-dark-border: #2b303a;
-  --sq-dark-text: #e8ebf1;
-  --sq-dark-body: #c1c7d2;
-  --sq-dark-muted: #969eac;
+  --sq-dark-bg: #1b1b1b;
+  --sq-dark-sidebar: #1b1b1b;
+  --sq-dark-surface: #ffffff68;
+  --sq-dark-border: #1b1b1b;
+  --sq-dark-text: #eff1f5;
+  --sq-dark-body: #e3e3e3;
+  --sq-dark-muted: #ffffffe9;
 
   /* Light palette */
   --sq-light-bg: #f6f7f9;
@@ -88,45 +88,45 @@ html[saved-theme="light"] .page-header a {
    SIDEBARS
    ========================================== */
 
-#quartz-body .sidebar {
-  font-size: 0.9rem;
-}
+// #quartz-body .sidebar {
+//   font-size: 0.9rem;
+// }
 
-html[saved-theme="dark"] #quartz-body .sidebar {
-  background: var(--sq-dark-sidebar);
-  color: var(--sq-dark-muted);
-}
+// html[saved-theme="dark"] #quartz-body .sidebar {
+//   background: var(--sq-dark-sidebar);
+//   color: var(--sq-dark-muted);
+// }
 
-html[saved-theme="light"] #quartz-body .sidebar {
-  background: var(--sq-light-sidebar);
-  color: var(--sq-light-muted);
-}
+// html[saved-theme="light"] #quartz-body .sidebar {
+//   background: var(--sq-light-sidebar);
+//   color: var(--sq-light-muted);
+// }
 
-html[saved-theme="dark"] #quartz-body .sidebar.left {
-  border-right: 1px solid var(--sq-dark-border);
-}
+// html[saved-theme="dark"] #quartz-body .sidebar.left {
+//   border-right: 1px solid var(--sq-dark-border);
+// }
 
-html[saved-theme="dark"] #quartz-body .sidebar.right {
-  border-left: 1px solid var(--sq-dark-border);
-}
+// html[saved-theme="dark"] #quartz-body .sidebar.right {
+//   border-left: 1px solid var(--sq-dark-border);
+// }
 
-html[saved-theme="light"] #quartz-body .sidebar.left {
-  border-right: 1px solid var(--sq-light-border);
-}
+// html[saved-theme="light"] #quartz-body .sidebar.left {
+//   border-right: 1px solid var(--sq-light-border);
+// }
 
-html[saved-theme="light"] #quartz-body .sidebar.right {
-  border-left: 1px solid var(--sq-light-border);
-}
+// html[saved-theme="light"] #quartz-body .sidebar.right {
+//   border-left: 1px solid var(--sq-light-border);
+// }
 
-html[saved-theme="dark"] .sidebar a {
-  color: var(--sq-dark-muted);
-  text-decoration: none;
-}
+// html[saved-theme="dark"] .sidebar a {
+//   color: var(--sq-dark-muted);
+//   text-decoration: none;
+// }
 
-html[saved-theme="light"] .sidebar a {
-  color: var(--sq-light-muted);
-  text-decoration: none;
-}
+// html[saved-theme="light"] .sidebar a {
+//   color: var(--sq-light-muted);
+//   text-decoration: none;
+// }
 
 /* ==========================================
    SEARCH
@@ -506,24 +506,25 @@ html[saved-theme="light"] .center > article :not(pre) > code {
    CALLOUTS AND BLOCKQUOTES
    ========================================== */
 
-.center > article .callout,
-.center > article blockquote {
-  border-radius: 9px;
-}
+// .center > article .callout,
+// .center > article blockquote {
+//   border-radius: 1rem;
+// }
 
-html[saved-theme="dark"] .center > article .callout,
-html[saved-theme="dark"] .center > article blockquote {
-  background: rgba(255, 255, 255, 0.025);
-}
+// html[saved-theme="dark"] .center > article .callout,
+// html[saved-theme="dark"] .center > article blockquote {
+//   background: rgba(255, 255, 255, 0.055);
+// }
 
-html[saved-theme="light"] .center > article .callout,
-html[saved-theme="light"] .center > article blockquote {
-  background: rgba(0, 0, 0, 0.025);
-}
+// html[saved-theme="light"] .center > article .callout,
+// html[saved-theme="light"] .center > article blockquote {
+//   background: rgba(0, 0, 0, 0.025);
+// }
 
-.center > article blockquote {
-  padding: 0.75rem 1rem;
-}
+// .center > article blockquote {
+//   padding: 0.75rem 1rem;
+// }
+
 
 html[saved-theme="dark"] .center > article blockquote {
   border-left: 3px solid var(--sq-accent);

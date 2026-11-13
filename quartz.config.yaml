@@ -4,6 +4,7 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
+  prefetch: viewport
   analytics:
     provider: plausible
   locale: en-US
@@ -121,9 +122,9 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
-      theme: default
+      theme: tokyo-night
       mode: both
   - source: "@quartz-community/explicit-publish"
     enabled: false
