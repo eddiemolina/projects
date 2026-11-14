@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: By Eddie Molina 
+  pageTitle: <EM />
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -23,13 +23,13 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
+        light: "#F5F5F5"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
+        dark: "#11224E"
         secondary: "#548B5D"
-        tertiary: "#79C98A"
+        tertiary: "#F87B1B"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
@@ -39,7 +39,7 @@ configuration:
         darkgray: "#d4d4d4"
         dark: "#ebebec"
         secondary: "#79C98A"
-        tertiary: "#91D69F"
+        tertiary: "#F87B1B"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
   links:

@@ -1,17 +1,17 @@
 ---
-title: Eddie Molina | Setting Up My Environmentt
+title: Setting Up My Environment
 date: 2026-11-12
 ---
-## Overview
 
- This write-up covers how I set up my own virtual machine to work through Hack The Box labs. Rather than relying on HTB's Pwnbox, I wanted to use my own Kali Linux environment running in VMware Fusion on my MacBook Pro.
+> [!abstract] Overview
+>  This write-up covers how I set up my own virtual machine to work through Hack The Box labs. Rather than relying on HTB's Pwnbox, I wanted to use my own Kali Linux environment running in VMware Fusion on my MacBook Pro.
 
-> [!concepts] 
-> #virtualization #openvpn #kali-linux #homebrew
-
+____
 ## Goal
 
 Set up a virtual machine dedicated to working through Hack The Box labs.
+
+> [!info]  #virtualization #openvpn #kali-linux #homebrew
 
 ## What I Did
 
@@ -78,4 +78,4 @@ More importantly, I now have a dedicated Kali Linux environment that I can use f
 
 ---
 #hack-the-box
-<sub>© Eddie Molina · Cybersecurity Knowledge Base · Personal Technical Documentation</sub>
+<sub>© Eddie Molina · Personal Documentation</sub>

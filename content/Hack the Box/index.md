@@ -1,5 +1,5 @@
 ---
-title: Eddie Molina | Hack The Box
+title: Hack The Box
 description: Cybersecurity training, practical labs, and technical documentation.
 tags:
   - cybersecurity
@@ -11,12 +11,13 @@ tags:
 > 
 > This section documents my hands-on learning experiences through **Hack The Box (HTB)**. Here, I share technical concepts, tools, techniques, and lessons I've picked up while working through labs and challenges. Rather than publishing tutorials or walkthroughs, I'll focus on what I've learned, the challenges I've encountered, and how I've applied different cybersecurity concepts in practice.
 
+___
 ![[Pasted image 20261112153045.png|center|160]]
 
 *Image courtesy of [Hack The Box](https://www.hackthebox.com/).*
 # What You'll Find Here
 
-> [!example]
+> [!example] 
 > 
 > - **Technical Concepts** — Security principles and techniques explored through hands-on exercises.
 >     
@@ -29,4 +30,4 @@ The goal is to demonstrate my learning process, reinforce my understanding, and 
 
 ___
 #hack-the-box 
-<sub>© Eddie Molina · Cybersecurity Knowledge Base · Personal Technical Documentation</sub>
+<sub>© Eddie Molina · Personal Documentation</sub>

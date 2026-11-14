@@ -7,12 +7,7 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 > [!abstract] Overview
 > 
 
-> [!info] Concepts
-> #example
-
-> [!todo] Goal
-> 
-
+____
 ## What I Did
 
 
@@ -26,4 +21,4 @@ const parent = tp.file.folder(true).split("/").pop();
 const tag = parent.toLowerCase().trim().replace(/\s+/g, "-");
 tR += `#${tag}`;
 %>
-<sub>© Eddie Molina · Cybersecurity Knowledge Base · Personal Technical Documentation</sub>
+<sub>© Eddie Molina · Personal Technical Documentation</sub>
